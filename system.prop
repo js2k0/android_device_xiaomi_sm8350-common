@@ -22,8 +22,6 @@ debug.renderengine.backend=skiaglthreaded
 renderthread.skia.reduceopstasksplitting=true
 debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=20
-
-# Display
 ro.sf.force_hwc_brightness=1
 
 # Graphics
